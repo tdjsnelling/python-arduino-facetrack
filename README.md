@@ -8,3 +8,4 @@ If the face is in the left of the frame, a specific integer is sent to the teens
 
 A quick demo:
 ![](recorded.gif)
+![](demo.jpg)
