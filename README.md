@@ -7,4 +7,4 @@ I have used Haar Cascades and OpenCV for the face tracking, and a teensy 2.0 to 
 If the face is in the left of the frame, a specific integer is sent to the teensy and the motor is controlled accordingly - likewise if the face is in the right of the frame. 
 
 A quick demo:
-![rec](recorded.gif)
+![](recorded.gif)
